@@ -1,0 +1,5 @@
+var dataBagi= (37/30)
+console.log(dataBagi)
+console.log (Math.floor(dataBagi))
+console.log (Math.ceil(dataBagi))
+console.log (Math.round(dataBagi))
